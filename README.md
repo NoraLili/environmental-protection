@@ -1,6 +1,6 @@
-
- <div align="center">
-   
+<img width="947" alt="environmental_protection_project" src="https://github.com/NoraLili/environmental-protection/assets/129237208/517a655a-b196-4d40-8782-11d22ba33ca4">
+<div align="center">
+ 
 # Environmental protection project  
 
 </div>
