@@ -16,4 +16,4 @@ This project represents my initial foray into web development. As a team, we use
 
 During this project, I focused on improving my coding skills, design sense, and problem-solving abilities. I addressed a specific problem and crafted a solution that reflects my dedication to practical and functional web development. It's just the beginning of my journey as a developer, and I'm excited to continue learning and growing in this field.
 
-Link [here](noralili.github.io/environmental-protection).
+Link [here](noralili.github.io/environmental-protection){:target="_blank"}.
